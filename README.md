@@ -54,9 +54,9 @@ Created an interactive dashboard to visualize:
 ## Key Business Insights
 - Customers with month-to-month contracts showed significantly higher churn rates.
 - Customers with higher monthly charges were more likely to leave the service.
-- New customers had a higher probability of churn compared to long-term customers.
+- While newer customers showed higher overall churn rates, analysis revealed that long-tenure customers with high monthly charges also demonstrated notable churn behavior, indicating that pricing and service value remain critical retention factors even among loyal customers.
 - Electronic check payment users demonstrated higher churn behavior.
-- Long-term contract customers showed stronger retention rates.
+- Customers with longer tenure generally showed stronger retention; however, high-paying long-term customers contributed significantly to churn, suggesting potential dissatisfaction despite customer loyalty.
 
 ---
 ## Project Structure

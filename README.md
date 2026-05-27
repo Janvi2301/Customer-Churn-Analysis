@@ -29,17 +29,9 @@ The project demonstrates an end-to-end analytics workflow including data cleanin
 - Converted `TotalCharges` column into numeric format
 - Handled missing values using median imputation
 - Prepared clean dataset for analysis
+- Performed Exploratory Data Analysis (EDA)
 
-### 3. Exploratory Data Analysis (EDA)
-Performed analysis to understand:
-- Customer churn distribution
-- Monthly charges pattern
-- Customer tenure behavior
-- Contract type trends
-- Payment method analysis
-- Customer retention patterns
-
-### 4. SQL-Based Business Analysis
+### 3. SQL-Based Business Analysis
 Used MySQL queries to derive business insights such as:
 - Overall churn rate
 - Revenue loss due to churn
@@ -49,7 +41,7 @@ Used MySQL queries to derive business insights such as:
 - Payment method impact on churn
 - Gender and senior citizen churn analysis
 
-### 5. Power BI Dashboard
+### 4. Power BI Dashboard
 Created an interactive dashboard to visualize:
 - Customer KPIs
 - Churn trends
